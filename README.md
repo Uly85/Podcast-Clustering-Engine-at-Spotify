@@ -1,6 +1,6 @@
 # Podcast-Clustering-Engine-at-Spotify
 
-Group : Romauli Butarbutar, Suphanet Kotchum, Arushi Mishra, Edoarda Schoch, Christian Wiloejo
+Group : Romauli Butarbutar, Christian Wiloejo, Suphanet Kotchum, Arushi Mishra, Edoarda Schoch
 
 ## Introduction and Background Research 
 
